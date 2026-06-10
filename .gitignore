@@ -229,6 +229,8 @@ __pycache__/
 
 # Secrets
 .env
+.env.*
+!.env.example
 
 # Local editor settings
 .vscode/
