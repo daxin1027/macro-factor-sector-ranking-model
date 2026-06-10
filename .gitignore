@@ -216,3 +216,34 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# Local editor settings
+.vscode/
+
+# Locally generated datasets
+data/raw/*
+!data/raw/.gitkeep
+
+data/processed/*
+!data/processed/.gitkeep
+
+# Generated outputs
+outputs/*
+!outputs/.gitkeep
+
+# Operating system files
+.DS_Store
+Thumbs.db
