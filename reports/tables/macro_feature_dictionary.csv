@@ -1,0 +1,10 @@
+feature_name,source_series,transformation,information_availability_rule,interpretation
+indpro_yoy,INDPRO,12-month percentage change * 100,Shifted by 1 calendar month,Industrial activity growth
+unemployment_change_3m,UNRATE,3-month difference,Shifted by 1 calendar month,Labor-market deterioration or improvement
+inflation_yoy,CPIAUCSL,12-month percentage change * 100,Shifted by 1 calendar month,Consumer inflation pressure
+m2_yoy,M2SL,12-month percentage change * 100,Shifted by 1 calendar month,Money-supply growth
+fedfunds_level,FEDFUNDS,Level,Shifted by 1 calendar month,Short-rate policy stance
+treasury_10y_level,GS10,Level,Shifted by 1 calendar month,Long-rate level
+yield_curve_spread,T10Y2Y,Level,Current completed month-end observation,Yield-curve slope
+credit_spread,BAA10Y,Level,Current completed month-end observation,Corporate credit-risk compensation
+vix_level,VIXCLS,Level,Current completed month-end observation,Equity-market volatility/risk aversion

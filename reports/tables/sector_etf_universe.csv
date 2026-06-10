@@ -1,0 +1,12 @@
+ticker,sector_name,included_in_11_sector_scope,included_in_9_sector_long_history_scope
+XLB,Materials,True,True
+XLC,Communication Services,True,False
+XLE,Energy,True,True
+XLF,Financials,True,True
+XLI,Industrials,True,True
+XLK,Technology,True,True
+XLP,Consumer Staples,True,True
+XLRE,Real Estate,True,False
+XLU,Utilities,True,True
+XLV,Health Care,True,True
+XLY,Consumer Discretionary,True,True
